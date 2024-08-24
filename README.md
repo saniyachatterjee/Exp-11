@@ -20,10 +20,11 @@ class cube{
 int main(){
     cube c1;
     double volume=c1.height*c1.length*c1.width;
-    cout<<"Volume:"<<volume<<endl;
+    cout<<"volume:"<<volume<<endl;
     
 }
 ```
+![Screenshot 2024-08-24 223401](https://github.com/user-attachments/assets/37968eff-c87c-4303-9ea6-89128a6e8f81)
 
 O/P:
 
